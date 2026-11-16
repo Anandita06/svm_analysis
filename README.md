@@ -1,6 +1,6 @@
-# Decision Boundary Lab
+# SVM analysis
 
-A Python project for exploring decision boundaries, kernel methods, and model robustness in Support Vector Machines across synthetic datasets, label noise, augmentation, and high-dimensional settings.
+A Python project for exploring decision boundaries, kernel methods, and model robustness in Support Vector Machines (SVM) across synthetic datasets, label noise, augmentation, and high-dimensional settings.
 
 ## Project overview
 
@@ -41,18 +41,6 @@ python 06_high_dimensionality.py
 ```
 
 Each script saves results in the `data/` and `figures/` folders.
-
-## GitHub setup
-
-This project is already initialized as a local Git repository. To connect it to a remote GitHub repository, run:
-
-```bash
-git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-git push -u origin main
-```
-
-If you prefer, you can create the GitHub repository first in the browser and then add the remote URL above.
 
 ## License
 
