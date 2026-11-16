@@ -9,5 +9,6 @@ venv/
 .env
 .DS_Store
 Thumbs.db
+*.tmp
 figures/*.png
 data/*.npz
