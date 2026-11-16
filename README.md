@@ -1,6 +1,6 @@
-# SVM Homework Project
+# Decision Boundary Lab
 
-This repository contains the code, analysis, and visualizations for a Support Vector Machine (SVM) assignment exploring synthetic datasets, perceptron vs. SVM performance, kernel methods, data augmentation, label noise, and high-dimensional effects.
+A Python project for exploring decision boundaries, kernel methods, and model robustness in Support Vector Machines across synthetic datasets, label noise, augmentation, and high-dimensional settings.
 
 ## Project overview
 
@@ -24,7 +24,7 @@ Generated output folders:
 Use Python 3.10+ and install dependencies:
 
 ```bash
-pip install numpy matplotlib scikit-learn
+pip install -r requirements.txt
 ```
 
 ## Run the project
@@ -42,13 +42,6 @@ python 06_high_dimensionality.py
 
 Each script saves results in the `data/` and `figures/` folders.
 
-## Assignment files
-
-The repository also includes the assignment materials:
-
-- `hw02_SVM_Deadline161126.docx`
-- `hw02_SVM_Deadline161126.pdf`
-
 ## GitHub setup
 
 This project is already initialized as a local Git repository. To connect it to a remote GitHub repository, run:
@@ -63,4 +56,4 @@ If you prefer, you can create the GitHub repository first in the browser and the
 
 ## License
 
-This project is intended for academic coursework and experimentation.
+This project is intended for research, experimentation, and academic exploration.

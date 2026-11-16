@@ -10,5 +10,7 @@ venv/
 .DS_Store
 Thumbs.db
 *.tmp
+hw02_SVM_Deadline161126.docx
+hw02_SVM_Deadline161126.pdf
 figures/*.png
 data/*.npz
