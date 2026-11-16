@@ -10,6 +10,7 @@ venv/
 .DS_Store
 Thumbs.db
 *.tmp
+Anandita_Banerjee_hw02_SVM.pdf
 hw02_SVM_Deadline161126.docx
 hw02_SVM_Deadline161126.pdf
 figures/*.png
